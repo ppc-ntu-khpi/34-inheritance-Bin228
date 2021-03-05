@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<book xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_index" xml:lang="en-US">
+    <info>
+    <title>Hawk</title>
+    </info>
+<chapter>
+    <title>Namespace Documentation</title>
+<xi:include href="namespacedomain.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+<xi:include href="namespacehawk__oop__pr__02022021.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</chapter>
+<chapter>
+    <title>Class Documentation</title>
+    <xi:include href="classdomain_1_1_animal.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classdomain_1_1_hawk.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classhawk__oop__pr__02022021_1_1_hawk___o_o_p___p_r__02022021.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="classdomain_1_1_predator.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</chapter>
+<chapter>
+    <title>File Documentation</title>
+    <xi:include href="_animal_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_hawk_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_predator_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+    <xi:include href="_hawk___o_o_p___p_r__02022021_8java.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+</chapter>
+<index/>
+</book>
